@@ -11,6 +11,7 @@
             "name" : "Yagrik",
             "surname" : "dem",
             "photo_url": "https://static.wikia.nocookie.net/brickipedia/images/4/4a/76085_alt20.jpg/revision/latest/scale-to-width-down/250?cb=20171030075043&path-prefix=ru"
+<<<<<<< HEAD
         }
     ],
     "products": [
@@ -18,4 +19,42 @@
             
         }
     ]
+=======
+        } ],
+     "products" :[
+            {
+            "id": 1,
+            "book": "Rick and Morty. Issue 3",
+            "photo_url":"https://i.book.ua/media/catalog/product/_/2/_2024-11-11_23.29.57.png?format=auto&width=600&height=855",
+            "price": 100
+            
+            },
+            {
+            "id":2,
+            "Toy":"Morty Rick game figure",
+            "photo_url":"https://content1.rozetka.com.ua/goods/images/big/411580540.jpg",
+            "price": 1530
+            },
+            {
+             "id":3,
+             "game":"Rimworld",
+             "photo_url":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg?t=1762524275",
+             "price":469   
+            },
+            {
+                "id":4,
+                "addons":"Odyssey",
+                "photo_url":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3022790/d1725bac389c6e88c0be0c4aab62dbeec4aa15e4/header.jpg?t=1752242125",
+                "price":370
+            },
+            {
+                "id":5,
+                "game":"S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+                "photo_url":"https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1643320/24604ab3f89a0703f7fd5ec32086708bce8ccca3/header_alt_assets_4_ukrainian.jpg?t=1763461825",
+                "price":1399
+            }
+
+            
+        ]
+>>>>>>> 01d3e36d638ff34dd22aa6929557af0c288afbf2
 }
